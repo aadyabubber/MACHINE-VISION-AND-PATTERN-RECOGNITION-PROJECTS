@@ -84,11 +84,11 @@ Python • NumPy • OpenCV • Matplotlib • LaTeX
 
 ## Structure
 
-OpenCV_Messing_around/
-Convolution/
-Fourier_Transformation/
-Multiresolution_Blending/
-Pinspeck_Camera_Analysis/
+OpenCV_Messing_around
+Convolution
+Fourier_Transformation
+Multiresolution_Blending
+Pinspeck_Camera_Analysis
 
 
 ---
